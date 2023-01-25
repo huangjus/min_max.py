@@ -21,5 +21,5 @@ while index < num_int - 1:
         maximum = number
     index = index + 1
 
-print('min: ', minimum)
-print('max: ', maximum)
+print('min:', minimum)
+print('max:', maximum)
