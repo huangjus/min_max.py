@@ -1,7 +1,7 @@
 # Author: Justin Huang
 # GitHub username: huangjus
 # Date: 1/25/23
-# Description: min_max.py
+# Description: Prints the minimum and maximum numbers from a list of numbers inputted by the user
 
 num_int = int(input('How many integers would you like to enter?'))
 
